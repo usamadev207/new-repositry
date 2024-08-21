@@ -1,0 +1,41 @@
+body{
+    background-color: cadetblue;
+    width: auto;
+    height: 100%;
+}
+h1{
+    text-align: justify;
+    margin: 5px;
+    padding: 3px;
+    color: chocolate;
+    text-transform: capitalize;
+    width: 45px;
+    height: 30px;
+    background-color: black;
+    font-size: 10px;
+}
+p{
+    text-align: justify;
+    margin: 5px;
+    padding: 3px;
+    color: chocolate;
+    text-transform: capitalize; 
+    width: auto;
+    height: 15px;
+    background-color:cadetblue;
+    font-size: 12px;
+
+
+}
+a{
+    background-color: blue;
+    text-align: justify;
+    margin: 5px;
+    padding: 3px;
+    color: rgb(117, 59, 17);
+    text-transform: capitalize; 
+    width: 12px;
+    height: 10px;
+
+}
+}
